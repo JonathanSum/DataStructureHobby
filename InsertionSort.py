@@ -17,3 +17,5 @@
 #
 # insert(list1,5,42)
 # print(list1)
+if(True):
+    print("hello");
